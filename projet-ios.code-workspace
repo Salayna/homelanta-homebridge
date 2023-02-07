@@ -1,0 +1,19 @@
+{
+    "folders": [
+        {
+            "path": "./homebridge-local"
+        },
+        {
+            "path": "./homebridge-store"
+        },
+        {
+            "path": "./homebridge-ventilo"
+        },
+        {
+            "path": "./homebridge-garage"
+        },
+        {
+            "path": "./homebridge-lamp"
+        }
+    ]
+}
