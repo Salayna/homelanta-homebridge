@@ -8,7 +8,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "homebridge": "^1.6.0"
+    "homebridge": "^1.6.0",
+    "homebridge-lamp": "../homebridge-lamp"
   },
   "devDependencies": {
     "typescript": "^4.9.5"
